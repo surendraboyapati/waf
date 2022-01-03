@@ -1,0 +1,6 @@
+aws_wafregional_ipset_name          = "myipset"
+aws_wafregional_rule_name           = "myFirstwebacl"
+aws_wafregional_rule_metric_name    = "myFirstwebaclmetics"
+aws_wafregional_web_acl_name        = "myFirstwafrulename"
+aws_wafregional_web_acl_metric_name = "myFirstwafrulemetrics"
+lb_name                             = "myLb"
